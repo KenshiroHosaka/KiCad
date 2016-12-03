@@ -1,4 +1,4 @@
-(module TWE-Lite (layer F.Cu) (tedit 5824C00B)
+(module TWE-Lite (layer F.Cu) (tedit 58342735)
   (fp_text reference REF** (at 0 -8.635) (layer F.SilkS)
     (effects (font (size 1.2 1.2) (thickness 0.15)))
   )
@@ -48,4 +48,5 @@
   (pad 30 smd oval (at -1.905 -6.735) (size 0.9 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 31 smd oval (at -3.175 -6.735) (size 0.9 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 32 smd oval (at -4.445 -6.735) (size 0.9 1.4) (layers F.Cu F.Paste F.Mask))
+  (pad "" np_thru_hole circle (at -4.335 -4.715) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask F.SilkS))
 )
